@@ -1,0 +1,10 @@
+{
+  "name": "@weather/web",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "echo \"Web dev not set yet\"",
+    "build": "echo \"Web build not set yet\"",
+    "lint": "echo \"Web lint not set yet\""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "@weather/api",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "echo \"API dev not set yet\"",
+    "build": "echo \"API build not set yet\"",
+    "lint": "echo \"API lint not set yet\""
+  }
+}
