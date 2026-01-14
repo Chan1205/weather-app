@@ -1,5 +1,14 @@
 {
   "name": "@weather/shared",
+  "version": "0.0.0",
   "private": true,
-  "version": "0.0.0"
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "lint": "echo \"shared lint later\""
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
 }
